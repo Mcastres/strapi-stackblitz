@@ -1,3 +1,3 @@
-# node-ao8hjy
+# Strapi application
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/node-ao8hjy)
+A quick description of your strapi application
