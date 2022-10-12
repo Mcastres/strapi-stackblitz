@@ -1,5 +1,5 @@
 {
-  "name": "my-project",
+  "name": "stackblitz",
   "private": true,
   "version": "0.1.0",
   "description": "A Strapi application",
@@ -11,19 +11,19 @@
   },
   "devDependencies": {},
   "dependencies": {
-    "@strapi/strapi": "4.1.2",
-    "@strapi/plugin-users-permissions": "4.1.2",
-    "@strapi/plugin-i18n": "4.1.2",
-    "sqlite3": "5.0.2"
+    "@strapi/strapi": "4.4.3",
+    "@strapi/plugin-users-permissions": "4.4.3",
+    "@strapi/plugin-i18n": "4.4.3",
+    "better-sqlite3": "7.4.6"
   },
   "author": {
     "name": "A Strapi developer"
   },
   "strapi": {
-    "uuid": "69f46721-bb6e-45ae-b0ef-f85dde0d9586"
+    "uuid": "1764c101-5690-4490-bf5d-753bfd2bd29d"
   },
   "engines": {
-    "node": ">=12.x.x <=16.x.x",
+    "node": ">=14.19.1 <=18.x.x",
     "npm": ">=6.0.0"
   },
   "license": "MIT"
